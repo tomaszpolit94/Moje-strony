@@ -1,0 +1,16 @@
+W ka¿dym zadaniu nale¿y wykorzystaæ bootstrapa oraz ka¿da strona ma byc wykonana responsywnie. Ka¿da strona ma miec ustawiona ikonkê oraz tytu³. 
+Strony maja miec identyczny wygl¹d „g³ówny” i byc estetyczne.
+
+
+Utworzyæ katalog w którym bed¹ znajdowac sie obrazki/zdjecia. W przypadku wstawiania zdjeæ/obrazków na strony korzystaæ tylko z tego folderu.
+Utworzyæ 5 podstron: g³ówna, o autorze, artyku³y, zdjecia, kontakt
+Ka¿da podstrona ma zawieraæ nag³ówek, stopkê, panel nawigacyjny wraz z linkami do wszystkich podstron oraz czesc g³ówna która bedzie ro¿na dla ka¿dej podstrony. W headerze ka¿dej podstrony ma znajdowaæ sie informacja gdzie sie znajdujemy oraz ma on odwo³ywaæ sie do strony g³ównej. Panel nawigacyjny ma byc lista.
+G³ówna: opis o czy bedzie strona
+O autorze: kilka s³ów o sobie
+Artyku³y: wstawiæ conajmniej trzy artyku³y, ka¿dy w oddzielnym blokowym elemencie, maja miec nag³ówek, treœæ opatrzona awatarem, podpisem autora, oraz polem tekstowym i przyciskiem do komentarza. Pole tekstowe ma miec wstawiony placeholder z treœci¹ „wstaw komentarz”. Artyku³y nie mog¹ byc w tabeli.
+Zdjecia: wstawiæ conajmniej trzy zdjecia w tabeli, ka¿de opatrzyæ data i autorem.
+Kontakt: wstawiæ informacje do kontaktu w elemencie blokowym z nag³ówkiem i paragrafem
+Wykorzystaæ bootstrapowe klasy do stylowania elementów
+
+<p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+          <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
